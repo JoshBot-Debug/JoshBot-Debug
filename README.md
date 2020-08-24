@@ -2,7 +2,7 @@
 
 My name is Joshua Myers, Software and Web Developer, I code to solve and automate everyday tasks, build applications to save time and improve efficiency.
 
-I always implement __Object Oriented Principles__ in my applications wherever I see fit, like the MVC model, and commonly used design patterns such as the strategy pattern, observer pattern, etc. I'm absolutely obsessed with OOP :satisfied: ![gif](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+I always implement __Object Oriented Principles__ in my applications wherever I see fit, like the MVC model, and commonly used design patterns such as the strategy pattern, observer pattern, etc. I'm absolutely obsessed with OOP :satisfied:
 
 So far, these are some of the languages and frameworks I'm very familiar with.
 
