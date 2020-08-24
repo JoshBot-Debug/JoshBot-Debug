@@ -14,3 +14,4 @@ However, I'm not stopping there, I've been learning C# through Unity 3D and C++ 
 Feel free to check out my GitHub repository and my official website to see some of the work I've done.
 
 Official website: www.joshuajosephmyers.com
+[GitHub](http://github.com)
