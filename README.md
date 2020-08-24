@@ -14,4 +14,4 @@ So far, these are some of the languages and frameworks I'm very familiar with.
 However, I'm not stopping there, I've been learning C# through Unity 3D and C++ in my spare time.
 Feel free to check out my GitHub repository and my official website to see some of the work I've done.
 
-[OfficialWebsite] (https://www.joshuajosephmyers.com)
+[Official Website](https://www.joshuajosephmyers.com)
