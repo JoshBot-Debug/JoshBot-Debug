@@ -6,12 +6,13 @@ I always implement __Object Oriented Principles__ in my applications wherever I 
 
 So far, these are some of the languages and frameworks I'm very familiar with.
 
+- _C#, .NET_
 - _PHP, MySQL, Symfony_
 - _HTML, CSS, SASS_
 - _Javascript, JQuery, React.js_
 - _Python, Django_
 
-However, I'm not stopping there, I've been learning C# by messing around with Unity 3D and C++ in my spare time. Feel free to check out my GitHub repository and my official website to see some of the work I've done.
+However, I'm not stopping there, I've been learning C++ in my spare time. Feel free to check out my GitHub repository and my official website to see some of the work I've done.
 
 [Official Website](https://www.joshuajosephmyers.com) | 
 [Twitter](https://twitter.com/JJMyers_)
