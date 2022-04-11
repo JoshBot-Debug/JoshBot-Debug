@@ -9,6 +9,8 @@ I'm ecstatic about Typescript. I've used several languages till now. However, Ty
 - _HTML, CSS, SASS_
 - _Node.js, React.js, Next.js_
 - _React Native_
+- _Express.js_
+- _Socket.io_
 - _Linux (Debian)_
 
 I have knowledge about microservices, security on debian, networking, switches, firewalls, and more.
