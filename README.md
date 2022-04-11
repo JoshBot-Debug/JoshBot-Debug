@@ -1,18 +1,16 @@
 # Hey there...! :blush:
 
-My name is Joshua Myers, I have a passion for solving problems and creating them 😆
+My name is Joshua Myers.
 
-I'm absolutely obsessed with OOP :satisfied:
+I'm ecstatic about Typescript. I've used several languages till now. However, Typescript takes the cake! :satisfied:
 
-So far, these are some of the languages and frameworks I'm familiar with.
-
-- _C#, .NET_
-- _PHP, MySQL, Symfony_
+- _Typescript, Javascript_
+- _Redis, MySQL_
 - _HTML, CSS, SASS_
-- _Javascript, JQuery, React.js_
-- _Python, Django_
-- _Java
+- _Node.js, React.js, Next.js_
+- _React Native_
+- _Linux (Debian)_
 
-However..., I'd say React Native and node.js with typescript is my pillar of strength.
+I have knowledge about microservices, security on debian, networking, switches, firewalls, and more.
 
 [Twitter](https://twitter.com/JJMyers_)
