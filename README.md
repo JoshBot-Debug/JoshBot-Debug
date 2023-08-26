@@ -11,9 +11,11 @@ My name is Joshua Myers.
 - _Socket.io_
 - _Linux (Debian)_
 
-### A few opensource projects of mine
+### A few opensource projects...
 [object-relationship-store](https://www.npmjs.com/package/@jjmyers/object-relationship-store)
-[api-store *a react js implimentation of object-relationship-store*](https://www.npmjs.com/package/@jjmyers/api-store)
+
+[api-store (*a react js implementation of object-relationship-store*)](https://www.npmjs.com/package/@jjmyers/api-store)
+
 [react js datatable](https://www.npmjs.com/package/@jjmyers/datatable)
 
 
