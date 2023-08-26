@@ -2,8 +2,6 @@
 
 My name is Joshua Myers.
 
-I'm ecstatic about Typescript. I've used several languages till now. However, Typescript takes the cake! :satisfied:
-
 - _Typescript, Javascript_
 - _Redis, MySQL_
 - _HTML, CSS, SASS_
