@@ -1,60 +1,25 @@
-# Hey there...! :blush:
+## Hello.
 
-My name is Joshua Myers.
+I'm Joshua Myers.
 
 - _Typescript, Javascript_
-- _Redis, MySQL_
-- _HTML, CSS, SASS_
 - _Node.js, React.js, Next.js_
+- _Redis, MySQL_
 - _React Native_
-- _Express.js_
-- _Socket.io_
-- _Linux (Debian)_
+- _Express.js, Socket.io_
+- _TailwindCSS_
+- _Linux (Debian based)_
+- _HTML, CSS, SASS_
 
-## Open-source projects
-[object-relationship-store](https://www.npmjs.com/package/@jjmyers/object-relationship-store)
+## My NPM Packages
+[@jjmyers/object-relationship-store](https://www.npmjs.com/package/@jjmyers/object-relationship-store)
 
-[api-store (*a react js implementation of object-relationship-store*)](https://www.npmjs.com/package/@jjmyers/api-store)
+[@jjmyers/api-store](https://www.npmjs.com/package/@jjmyers/api-store)
 
-[react js datatable](https://www.npmjs.com/package/@jjmyers/datatable)
+[@jjmyers/datatable](https://www.npmjs.com/package/@jjmyers/datatable)
 
-## Skills
+## Ongoing Projects
 
-### React.js, Next.js, React Native
-  
-- Worked on class components.
-- Worked on functional components, using react hooks.
-- Keep code clean and easy to read by adding a layer of abstraction using custom hooks.
-- Used Redux and Context API for state management.
-- Managed API requests and redux state by using redux thunks.
-- Setup client sided round robin load balancing.
+[@jjmyers/datatable - Demo Website](https://joshbot-debug.github.io/datatable/)
 
-
-### Node.js, Express.js
-- Written APIs in Express.js
-- Designed API for easy horizontal scaling.
-- Created custom middleware to process and check data.
-- Handled user authentication using JSON web tokens.
-- Integrated Google OAuth 2.0 for signup and login.
-- Configured and implemented s3 Buckets to store files.
-- Setup Redis to cache database queries and store temporary data.
-
-### MySQL/MariaDB
-- Used MySQL and MariaDB in various projects.
-- Created views, triggers, constraints, stored procedures and functions.
-- Setup Master Slave replication to distributed load across multiple slave databases.
-- Designed database table structure - utilised views, constraints, foreign keys relationships.
-
-### Socket.io, Redis
-- Written Socket.io applications.
-- Setup and configured redis as the adapter.
-- Added authentication with JSON web tokens.
-- Used Socket.io's features such as groups, namespaces.
-- Designed Socket server with easy horizontal scaling.
-
-
-### Linux (Debian, Ubuntu)
-- Install and configure packages and applications.
-- Configure SSH securely using private keys, prevent root access, etc.
-- Configure nftables/ufw firewall.
-- Setup user accounts with relevant permissions to access software, services, etc.
+[Isekaied - A Social Media](https://web.isekaied.com/)
