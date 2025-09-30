@@ -29,4 +29,4 @@ I’m a developer interested in writing software that feels like the Linux kerne
 - GitHub: [JoshBot-Debug](https://github.com/JoshBot-Debug)  
 - NPM: [@jjmyers](https://www.npmjs.com/~jjmyers)
 - Email: [joshuajosephmyers@outlook.com](mailto:joshuajosephmyers@outlook.com)
-- Webiste [Iotafox](https://iotafox.com/)
+- Website [Iotafox](https://iotafox.com/)
